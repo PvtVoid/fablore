@@ -1,0 +1,3 @@
+|  Name  | Region |                       Description                       |                              Mention                              |
+|--------|--------|---------------------------------------------------------|-------------------------------------------------------------------|
+|The Drop|The Pits|A bar owned by [Uzuri](../heroes-of-rathe/uzuri-about.md)|[The Spider's Trap](../main-story/10-outsiders/the-spiders-trap.md)|
